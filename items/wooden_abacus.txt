@@ -2,7 +2,7 @@ Woden Abacus
 
 source_01
 Mfg: Vivaan Toys 
-Location: Nashik 
+Location: Pune Warehouse 
 Price: 12.00/piece
 Lot: 1000
 Order: 2 lot

@@ -6,4 +6,6 @@ Location: Nashik
 Price: 10.00/piece
 Lot: 1000
 Order: 3 lot
+Contact details: 9999999999
+Transport: ajsdfhkajs
 

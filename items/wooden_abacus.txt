@@ -5,7 +5,7 @@ Mfg: Vivaan Toys
 Location: Pune Warehouse 
 Price: 12.00/piece
 Lot: 1000
-Order: 2 lot
+Order: 5 lot
 Contact details: 9999999999
 Transport: ajsdfhkajs
 
